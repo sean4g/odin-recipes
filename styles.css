@@ -1,0 +1,16 @@
+* {
+    font-family: Georgia, 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+}
+
+h1 {
+    background-color: antiquewhite;
+    font-weight: 500;
+    font-size: 42px;
+    width: 300px;
+    text-align: center;
+}
+
+h4 {
+    background-color: rgb(97, 240, 240);
+}
